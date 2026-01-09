@@ -1,0 +1,9 @@
+{
+  "name": "create-react-app-project",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./build",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
